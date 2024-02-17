@@ -19,20 +19,20 @@ Tela da Aplicação de Geração de Notas
 
 Tela da modal de opção de gravação ou digitação do texto
 <p align="center">
-  <img width="480" src="./src/assets/to_readme/#nlwexpert1">
+  <img width="480" src="./src/assets/to_readme/nlwexpert1.jpg">
 </p>
 
 <p align="center">
-  <img width="480" src="./src/assets/to_readme/#nlwexpertgravando.jpg">
+  <img width="480" src="./src/assets/to_readme/nlwexpertgravando.jpg">
 </p>
 
 <p align="center">
-  <img width="480" src="./src/assets/to_readme/#nlwexperttexto.jpg">
+  <img width="480" src="./src/assets/to_readme/nlwexperttexto.jpg">
 </p>
 
 Tela da com o modal com o novo card gerado
 <p align="center">
-  <img width="480" src="./src/assets/to_readme/#nlwexperttextonovo,jpg">
+  <img width="480" src="./src/assets/to_readme/nlwexperttextonovo,jpg">
 </p>
 
 
