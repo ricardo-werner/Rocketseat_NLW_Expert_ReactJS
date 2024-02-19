@@ -14,7 +14,7 @@ Status - Concluído
 
 Tela da Aplicação de Geração de Notas
 <p align="center">
-  <img width="480" src="./src/assets/to_readme/#nlwexpert.jpg">
+  <img width="480" src="./src/assets/to_readme/nlwexpert.jpg">
 </p>
 
 Tela da modal de opção de gravação ou digitação do texto
