@@ -32,7 +32,7 @@ Tela da modal de opção de gravação ou digitação do texto
 
 Tela da com o modal com o novo card gerado
 <p align="center">
-  <img width="480" src="./src/assets/to_readme/nlwexperttextonovo,jpg">
+  <img width="480" src="./src/assets/to_readme/nlwexperttextonovo.jpg">
 </p>
 
 
