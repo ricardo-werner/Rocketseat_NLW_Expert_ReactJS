@@ -71,7 +71,7 @@ Dado que esta estrutura é ainda nova para mim, este projeto foi fundamental par
 Além disso, a aplicação da biblioteca de ícones Lucide-React e a utilização do @radix-ui/react-dialog foram elementos enriquecedores. O @radix-ui/react-dialog, em particular, concentra-se na lógica de interação, destacando-se pela criação de modais, um desafio comum e crucial. Durante esse processo, foquei não apenas na implementação eficiente, mas também atendi aos requisitos de acessibilidade e explorei opções para personalização completa.
 Este projeto proporcionou uma valiosa aprendizagem sobre a estruturação eficaz de uma aplicação, visando facilitar futuras manutenções.
 
-## Para utilizar este projeto como base, faça o seguinte passo-a-passo:
+### Para utilizar este projeto como base, faça o seguinte passo-a-passo:
 
 Clone o projeto para a sua máquina
 ```bash
@@ -86,6 +86,11 @@ npm install
 - Rode o projeto
 ```bash
 npm run dev
+```
+
+#### Para verificação do projeto sem a necessidade de clonar o repositório, acesse o link abaixo:
+```bash
+https://rocketseat-nlw-expert-react-js-notes.vercel.app/
 ```
 
 ## Autor
